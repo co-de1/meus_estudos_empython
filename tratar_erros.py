@@ -14,6 +14,10 @@
 
 tratar_erros('Jose', 'verde')
 
+
+TAMBÉM TEMOS O else e o finally.
+
+
 """
 
 
