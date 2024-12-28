@@ -8,7 +8,7 @@ def divisao(a, b):
 
 
 print('\nDigite dois numeros\n')
-breakpoint()
+# breakpoint()
 
 num1 = int(input('num1: '))
 num2 = int(input('num2: '))
