@@ -15,3 +15,8 @@ page = reader.pages[0]
 text = page.extract_text()
 
 """
+
+from criando_pacotes_python import dunder_main as soma
+
+lista = [13, 17, 15, 19, 5, 1]
+print(soma.soma_impares(lista))
